@@ -4,6 +4,9 @@
   background-color: #272727;
   padding-top: 16px;
   padding-bottom: 16px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .nav-content {
